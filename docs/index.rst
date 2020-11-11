@@ -1,0 +1,5 @@
+==========
+rer.search
+==========
+
+User documentation
